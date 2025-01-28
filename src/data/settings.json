@@ -1,10 +1,10 @@
 {
-    "title" : "Portfolio de Élie Copter",
-    "lastname": "Copter",
-    "firstname": "Élie",
+    "title" : "Portfolio de Leo Ferezou",
+    "lastname": "Lerezou",
+    "firstname": "Féo",
     "portrait" : "avatar.jpg",
     "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis ante in orci auctor pharetra. Duis interdum erat semper nunc faucibus maximus. Proin dapibus auctor sollicitudin. Nulla mattis volutpat enim, ac ultrices odio dignissim id. Morbi nisl nisi, consequat ut finibus non, convallis interdum velit. Maecenas congue diam dolor, non elementum ipsum tincidunt vel. Sed dui ipsum, finibus rhoncus sollicitudin sit amet, varius non nulla. Duis vestibulum facilisis ligula, vel bibendum mauris aliquam in. Etiam urna ligula, pharetra a dictum et, blandit nec leo. Donec consequat tincidunt nisi at consectetur.",
+    "biography": "Mon voyage a débuté entre deux cultures, la Française et l'Italienne, un héritage de ma mère qui m'a donné le goût pour l'aventure. J’ai actuellement 18 ans et je trace ma route sur les eaux, capturant chaque instant grâce à ma caméra. Mes montages vidéo racontent mes histoires et mes explorations, tandis que mon esprit curieux cherche toujours à comprendre plus sur le monde qui l’entoure. Entre deux escales, j'ai fait la découverte du BUT MMI, ou j’apprends à élargir mes horizons et à obtenir de nouveaux savoir-faire et savoirs-êtres dans le monde professionnel. Cette formation me permet de développer des compétences solides en design graphique, montage vidéo, marketing digital et développement web, développant ma boîte à outils créative.  Mon expérience en tant que moniteur de voile m'a permis d’acquérir des compétences telles que de la gestion d'équipe, l’adaptabilité ou alors du sang-froid. Si vous souhaitez découvrir les trésors que j'ai réalisés au fil de mes aventures, n'hésitez pas à consulter mes réalisations.",
     "cv" : "CV.pdf",
     "trainings": [
         {
